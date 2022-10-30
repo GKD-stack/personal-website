@@ -28,3 +28,16 @@ nav-menu: true
                 <p> Using a mixture of models and apis to create a application to help one with online data science technical assessments. this includes a bunch of these apps and models </p>
         </div>
         <!-- Break -->
+        <div class="6u 12u$(small)">
+                <h3>consumer attitude analysis during covid</h3>
+                 <p> did this for tcg, place was blooms and threads, i lead our data analysis portion and had these key findings.</p>
+        </div>
+        <div class="6u$ 12u$(small)">
+                <h3>national student advertising marketing campaign</h3>
+                <p> was a part of analytics for this  </p>
+        </div>
+        <!-- Break -->
+        <div class="6u 12u$(small)">
+                <h3>ad analysis for start up</h3>
+                <p> did this for ecopackables. led a team of 5. allocated 60k real money. here it is.</p>
+        </div>
