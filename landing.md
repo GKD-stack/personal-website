@@ -2,8 +2,8 @@
 title: About Me 
 layout: landing
 description: 'I’m a third year undergraduate majoring in Data Science and minoring in Political Science. I’m interested in mitigating bias in AI and better undertanding data ethics, especially within healthcare. Learn more about my past experiences here'
-image: assets/images/pic07.jpg
-nav-menu: true
+image: assets/images/sky.webp
+nav-menu: false
 ---
 
 <!-- Main -->
