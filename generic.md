@@ -12,32 +12,36 @@ nav-menu: true
 <div class="row">
         <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
-                 <p>got a couple scholarships, collected own data, answered these questions. presented here.</p>
+                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. Learn more here (embed link) </p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>War Powers Effectiveness</h3>
-                <p> this is a phds dissertation, worked in a lab with it over for year. built these models. here's the model. </p>
+                <p> Work as a Research Assistant since June 2021 for Patrick Hulme in Center for Peace and Security Studies. Project goal is to identify effectiveness of War Powers Act. Responsabilities include thematic analysis, assisting with visualization in R, and creating classifiers to analyze congressional speeches in Python. </p>
         </div>
         <!-- Break -->
         <div class="6u 12u$(small)">
+                <h3> Consumer Attitude Data Analysis During Covid in San Diego </h3>
+                 <p> I was on a team of undergraduates that worked with a thrift shop in San Diego to understand how they could adjust various aspects of their operations to account for the pandemic. I lead our data analysis portion, gathered ~300 portions to a custom survey in qualtrics from target demographic that was used as the foundation of the team's findings. </p>
+        </div>
+        <div class="6u$ 12u$(small)">
+                <h3> Analytics for National Student Advertising Campaign 2021</h3>
+                <p> I was a part of the media/analytics team on the UCSD competitive marketing team where we curated a comphrensive solution to reform Tinder's reputation. My responsabilities were to calculate KPIs, calculate projections, and allocate our resourcs amongst the team's different functions. This year we broke UCSD's record through our placement in the competition and I was elected to Chief Strategy Officer. LINKHERE </p>
+        </div>
+        <!-- Break -->
+        <div class="6u 12u$(small)">
+                <h3>Ad Analysis for EcoPackables</h3>
+                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. LINKHERE</p>
+        </div>
+        
+<h2 id="content"> Projects in Progress </h2>
+<p> Click the link below each project's picture for more details. </p>
+<div class="row">
+        <!-- Break -->
+        <div class="6u 12u$(small)">
                 <h3>Insider Trading Amongst Congressmembers?</h3>
-                 <p> using exploratory data analysis, hypothesis testing and etc to get some fun key findings. this was done in python.</p>
+                 <p> ustill looking </p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>Technical Assessment Application</h3>
                 <p> Using a mixture of models and apis to create a application to help one with online data science technical assessments. this includes a bunch of these apps and models </p>
-        </div>
-        <!-- Break -->
-        <div class="6u 12u$(small)">
-                <h3>consumer attitude analysis during covid</h3>
-                 <p> did this for tcg, place was blooms and threads, i lead our data analysis portion and had these key findings.</p>
-        </div>
-        <div class="6u$ 12u$(small)">
-                <h3>national student advertising marketing campaign</h3>
-                <p> was a part of analytics for this  </p>
-        </div>
-        <!-- Break -->
-        <div class="6u 12u$(small)">
-                <h3>ad analysis for start up</h3>
-                <p> did this for ecopackables. led a team of 5. allocated 60k real money. here it is.</p>
         </div>
