@@ -4,7 +4,7 @@ subtitle: Personal Website
 email: gurmankdhaliwal2@gmail.com
 description: Data Science Undergraduate at University of California, San Diego
 baseurl: "/x" # the subpath of your site, e.g. /blog
-url: gurmandhaliwal.com # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Gurman Dhaliwal
 country: United States of America
 
