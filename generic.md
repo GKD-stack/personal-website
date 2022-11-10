@@ -8,11 +8,10 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"> Recent Projects </h2>
-<p> Click the link below each project's picture for more details. </p>
 <div class="row">
         <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
-                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <li>Project Website: <a href="https://gkd-stack.github.io/" target="_blank"></a></li> </p>
+                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <li>Project Website: <a href="https://gkd-stack.github.io/"</a></li> </p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>War Powers Effectiveness</h3>
