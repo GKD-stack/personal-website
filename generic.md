@@ -20,11 +20,11 @@ nav-menu: true
         <!-- Break -->
         <div class="6u 12u$(small)">
                 <h3>Ad Analysis for EcoPackables</h3>
-                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. <li>Final Deliverable:<https://issuu.com/ucsdadwave/docs/ecopackables/11></li></p>
+                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. <li>Final Deliverable:https://issuu.com/ucsdadwave/docs/ecopackables/11 </li></p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3> Analytics for National Student Advertising Campaign 2021</h3>
-                <p> I was a part of the media/analytics team on the UCSD competitive marketing team where we curated a comphrensive solution to reform Tinder's reputation. My responsabilities were to calculate KPIs, calculate projections, and allocate our resourcs amongst the team's different functions. This year we broke UCSD's record through our placement in the competition and I was elected to Chief Strategy Officer. <li>Final Deliverable:<a href="https://issuu.com/ucsdadwave/docs/tinderplansbook2021/19" target="_blank"></a></li></p>
+                <p> I was a part of the media/analytics team on the UCSD competitive marketing team where we curated a comphrensive solution to reform Tinder's reputation. My responsabilities were to calculate KPIs, calculate projections, and allocate our resourcs amongst the team's different functions. This year we broke UCSD's record through our placement in the competition and I was elected to Chief Strategy Officer. <li>Final Deliverable: https://issuu.com/ucsdadwave/docs/tinderplansbook2021/19</li></p>
         </div>
         <!-- Break -->
         <div class="6u 12u$(small)">
