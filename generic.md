@@ -11,7 +11,7 @@ nav-menu: true
 <div class="row">
         <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
-                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <li>Project Website: <https://gkd-stack.github.io/></li> </p>
+                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <li>Project Website: https://gkd-stack.github.io/ </li> </p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>War Powers Effectiveness</h3>
@@ -20,7 +20,7 @@ nav-menu: true
         <!-- Break -->
         <div class="6u 12u$(small)">
                 <h3>Ad Analysis for EcoPackables</h3>
-                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. <li>Final Deliverable:<a href="https://issuu.com/ucsdadwave/docs/ecopackables/11" target="_blank"></a></li></p>
+                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. <li>Final Deliverable:<https://issuu.com/ucsdadwave/docs/ecopackables/11></li></p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3> Analytics for National Student Advertising Campaign 2021</h3>
