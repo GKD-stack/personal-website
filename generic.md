@@ -11,7 +11,7 @@ nav-menu: true
 <div class="row">
         <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
-                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <li>Project Website: <a href="https://gkd-stack.github.io/"</a></li> </p>
+                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <li>Project Website: <https://gkd-stack.github.io/></li> </p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>War Powers Effectiveness</h3>
