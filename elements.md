@@ -17,18 +17,30 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">Education</h2>
 <div class="row 200%">
+	<p>Undergradaute at University of California San Deigo</p>
+	<p>Major: Data Science. Minor: Political Science. GPA: 3.9</p>
 	<div class="6u 12u$(medium)">
-
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
+<!-- Elements -->
+<h2 id="elements">Professional Experiences</h2>
+<div class="row 200%">
+	<p>Technical Research Assistant at Center for Peace and Security Studies</p>
+	<p>Statistical Programming Intern at Acumen, LLC (Summer 2022)</p>
+	<p>Policy Research Intern at City of San Diego (Summer 2021)</p>
+	<p>2x Triton Learning and Experiential Research Scholarship Recipient</p>
+	<div class="6u 12u$(medium)">
+<!-- Elements -->
+<h2 id="elements">Leadership Experiences</h2>
+<div class="row 200%">
+	<p>VP Consulting at Triton Consulting Group (UCSD's undergraduate student consultant group)</p>
+	<p>Chief Strategy Officer at UCSD Chapter of American Advertising Federation</p>
+	<div class="6u 12u$(medium)">
+<!-- Elements -->
+<h2 id="elements">Skills</h2>
+<div class="row 200%">
+	<p>Python, R, Stata, SAS, Java, Matlab, SQL, LaTeX, HTML, Microsoft Excel, Word, PowerPoint, Google Applications</p>
+	<div class="6u 12u$(medium)">
 
 
 
