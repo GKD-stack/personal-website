@@ -30,6 +30,8 @@ nav-menu: true
 <h2 id="elements">Leadership Experiences</h2>
 	<p>VP Consulting at Triton Consulting Group (UCSD's undergraduate student consultant group)</p>
 	<p>Chief Strategy Officer at UCSD Chapter of American Advertising Federation</p>
+	<p>Chief Strategy Officer at UCSD Chapter of American Advertising Federation</p>
+	<p>Chief Strategy Officer at UCSD Chapter of American Advertising Federation</p>
 
 <h2 id="elements">Skills</h2>
 <div class="row 200%">
