@@ -21,17 +21,14 @@ nav-menu: true
 <div class="row 200%">
 	<p>Undergradaute at University of California San Deigo</p>
 	<p>Major: Data Science. Minor: Political Science. GPA: 3.9</p>
-	<div class="6u 12u$(medium)">
 
 <h2 id="elements">Professional Experiences</h2>
-
 	<p>Technical Research Assistant at Center for Peace and Security Studies</p>
 	<p>Statistical Programming Intern at Acumen, LLC (Summer 2022)</p>
 	<p>Policy Research Intern at City of San Diego (Summer 2021)</p>
 	<p>2x Triton Learning and Experiential Research Scholarship Recipient</p>
 
 <h2 id="elements">Leadership Experiences</h2>
-
 	<p>VP Consulting at Triton Consulting Group (UCSD's undergraduate student consultant group)</p>
 	<p>Chief Strategy Officer at UCSD Chapter of American Advertising Federation</p>
 
