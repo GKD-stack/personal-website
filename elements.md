@@ -19,8 +19,7 @@ nav-menu: true
 <!-- Elements -->
 <h2 id="elements">Education</h2>
 <div class="row 200%">
-	<p>Undergradaute at University of California San Deigo</p>
-	<p>Major: Data Science. Minor: Political Science. GPA: 3.9</p>
+	<p>Undergradaute at University of California San Deigo /n Major: Data Science. Minor: Political Science. GPA: 3.9</p>
 
 <h2 id="elements">Professional Experiences</h2>
 	<p>Technical Research Assistant at Center for Peace and Security Studies</p>
