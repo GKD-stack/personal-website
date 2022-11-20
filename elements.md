@@ -12,26 +12,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Education</h2>
+<p>Undergraduate at the University of California, San Diego. Major: Data Science. Minor: Political Science. GPA: 3.9</p>
 		
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Professional Experiences</h2>
 <ul>
-<li>Dolor etiam magna etiam.</li>
-<li>Sagittis lorem eleifend.</li>
-<li>Felis dolore viverra.</li>
+<li>Technical Research Assistant at Center for Peace and Security Studies</li>
+<li>Statistical Programming Intern at Acumen, LLC (Summer 2022)</li>
+<li>Policy Research Intern at City of San Diego (Summer 2021)</li>
+<li>2x Triton Learning and Experiential Research Scholarship Recipient</li>
 </ul>
 		
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Leadership Experiences</h2>
+<ul>
+<li>Appointed as Undergraduate Voting Member on Chancellor’s Committee On the Status of Women</li>
+<li>Appointed as Student Representative at Revelle(1/7 UCSD colleges) Executive Faculty Committee on Academic Affairs</li>
+<li>VP Consulting at Triton Consulting Group (UCSD’s Undergraduate Student Consultants)</li>
+<li>Chief Strategy Officer at UCSD Chapter of the American Advertising Federation</li>
+</ul>
 		
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Skills</h2>
+<ul>
+<li>Python, R, SAS, SQL, Java, Matlab, LaTeX, HTML, Stata</li>
+</ul>
 		
 <div class="row">
 	<div class="6u 12u$(small)">
