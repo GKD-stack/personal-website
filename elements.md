@@ -7,7 +7,7 @@ nav-menu: true
 
 # Education
 
-Undergraduate at University of California, San Deigo. Major: Data Science. Minor: Political Science. GPA: 3.9<
+Undergraduate at University of California, San Diego. Major: Data Science. Minor: Political Science. GPA: 3.9
 
 ## Professional Experiences
 
