@@ -11,23 +11,23 @@ nav-menu: true
 <div class="row">
         <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
-                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <a href="https://gkd-stack.github.io/">Project Website</a>[Project Website](https://gkd-stack.github.io/)</p>
+                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <a href="https://gkd-stack.github.io/">Project Website</a></p>
                 
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>War Powers Effectiveness</h3>
                 <p> Work as a Research Assistant since June 2021 for Patrick Hulme in Center for Peace and Security Studies. Project goal is to identify effectiveness of War Powers Act. Responsabilities include thematic analysis, assisting with visualization in R, and creating classifiers to analyze congressional speeches in Python. 
-Final Website in Progress. <a href="https://github.com/GKD-stack/cPASS">cPASS Repository</a>[cPASS GitHub](https://github.com/GKD-stack/cPASS)</p>
+Final Website in Progress. <a href="https://github.com/GKD-stack/cPASS">cPASS Repository</a></p>
         </div>
         <!-- Break -->
         <div class="6u 12u$(small)">
                 <h3>Ad Analysis for EcoPackables</h3>
-                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. <a href="https://issuu.com/ucsdadwave/docs/ecopackables/11" title="Final Deliverable"></a>[Final Deliverable](https://issuu.com/ucsdadwave/docs/ecopackables/11)</p>
+                <p> Through the UCSD American Advertising Federation chapter, I was a project manager for a collaboration with EcoPackables. I managed a team of 5 to perform data analysis on the client's current ad metrics, reccomend specific KPIs according to their goals/mission, and allocate a 60K budget to their marketing. <a href="https://issuu.com/ucsdadwave/docs/ecopackables/11">Final Deliverable</a></p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3> Analytics for National Student Advertising Campaign 2021</h3>
                 <p> I was a part of the media/analytics team on the UCSD competitive marketing team where we curated a comphrensive solution to reform Tinder's reputation. My responsabilities were to calculate KPIs, calculate projections, and allocate our resourcs amongst the team's different functions. This year we broke UCSD's record through our placement in the competition and I was elected to Chief Strategy Officer. <a href="https://issuu.com/ucsdadwave/docs/tinderplansbook2021/19"
-title="Final Deliverable"></a> [Final Deliverable](https://issuu.com/ucsdadwave/docs/tinderplansbook2021/19) </p>
+>Final Deliverable</a></p>
         </div>
         <!-- Break -->
         <div class="6u 12u$(small)">
@@ -36,5 +36,5 @@ title="Final Deliverable"></a> [Final Deliverable](https://issuu.com/ucsdadwave/
         </div>
         <div class="6u$ 12u$(small)">
                 <h3> Where and when do major outages occur?</h3>
-                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. [Code + Data](https://github.com/GKD-stack/Power-Outages)</p>
+                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. <a href="https://github.com/GKD-stack/Power-Outages">Code + Data</a></p>
         </div>
