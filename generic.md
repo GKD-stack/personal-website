@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Data Science Projects
 description: 
 image: assets/images/scc.jpg
