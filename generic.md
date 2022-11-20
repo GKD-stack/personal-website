@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Data Science Projects
 description: 
 image: assets/images/scc.jpg
@@ -11,14 +11,13 @@ nav-menu: true
 <div class="row">
         <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
-                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <a href="https://gkd-stack.github.io/"
-title="Project Website"></a>[Project Website](https://gkd-stack.github.io/)</p>
+                 <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <a href="https://gkd-stack.github.io/">Project Website</a>[Project Website](https://gkd-stack.github.io/)</p>
                 
         </div>
         <div class="6u$ 12u$(small)">
                 <h3>War Powers Effectiveness</h3>
                 <p> Work as a Research Assistant since June 2021 for Patrick Hulme in Center for Peace and Security Studies. Project goal is to identify effectiveness of War Powers Act. Responsabilities include thematic analysis, assisting with visualization in R, and creating classifiers to analyze congressional speeches in Python. 
-Final Website in Progress. <a href="https://github.com/GKD-stack/cPASS" title="cPASS"></a>[cPASS GitHub](https://github.com/GKD-stack/cPASS)</p>
+Final Website in Progress. <a href="https://github.com/GKD-stack/cPASS">cPASS Repository</a>[cPASS GitHub](https://github.com/GKD-stack/cPASS)</p>
         </div>
         <!-- Break -->
         <div class="6u 12u$(small)">
