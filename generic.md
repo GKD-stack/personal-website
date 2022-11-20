@@ -37,5 +37,5 @@ title="Final Deliverable"></a> [Final Deliverable](https://issuu.com/ucsdadwave/
         </div>
         <div class="6u$ 12u$(small)">
                 <h3> Where and when do major outages occur?</h3>
-                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. [Code + Date]("https://github.com/GKD-stack/Power-Outages")</p>
+                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. [Code + Data](https://github.com/GKD-stack/Power-Outages)</p>
         </div>
