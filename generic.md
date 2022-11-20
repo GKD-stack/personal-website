@@ -35,3 +35,7 @@ title="Final Deliverable"></a> [Final Deliverable](https://issuu.com/ucsdadwave/
                 <h3> Consumer Attitude Data Analysis During Covid in San Diego </h3>
                 <p> I was on a team of undergraduates that worked with a thrift shop in San Diego to understand how they could adjust various aspects of their operations to account for the pandemic. I lead our data analysis portion, gathered ~300 portions to a custom survey in qualtrics from target demographic that was used as the foundation of the team's findings. </p>
         </div>
+        <div class="6u$ 12u$(small)">
+                <h3> Where and when do major outages occur?</h3>
+                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. [Code + Date]("https://github.com/GKD-stack/Power-Outages")</p>
+        </div>
