@@ -31,10 +31,15 @@ Final Website in Progress. <a href="https://github.com/GKD-stack/cPASS">cPASS Re
         </div>
         <!-- Break -->
         <div class="6u 12u$(small)">
-                <h3> Consumer Attitude Data Analysis During Covid in San Diego </h3>
-                <p> I was on a team of undergraduates that worked with a thrift shop in San Diego to understand how they could adjust various aspects of their operations to account for the pandemic. I lead our data analysis portion, gathered ~300 portions to a custom survey in qualtrics from target demographic that was used as the foundation of the team's findings. </p>
+                <h3> GPT-3 Based Technical Assessment Tool </h3>
+                <p> Worked with a team of 3 to build a technical preparation tool for students that was composed of a python preparation tool, SQL preparation tool, and chatbot to simulate a behavorial interview. <a href="https://github.com/GKD-stack/Power-Outages">Code + Demo</a></p>
         </div>
         <div class="6u$ 12u$(small)">
                 <h3> Where and when do major outages occur?</h3>
-                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. <a href="https://github.com/GKD-stack/Power-Outages">Code + Data</a></p>
+                <p> Through exploratory data analysis, missingness analysis, hypothesis testing, and visualization, this project delves into where and when major power outages tend to occur. Used KNN, Random Forest, and Decision Trees to create a model to preduct a cause of a power outage. <a href="https://github.com/GKD-stack/Tech_Interview_Tool">Code + Data</a></p>
+        </div>
+        <!-- Break -->
+        <div class="6u 12u$(small)">
+        <h3> Consumer Attitude Data Analysis During Covid in San Diego </h3>
+        <p> I was on a team of undergraduates that worked with a thrift shop in San Diego to understand how they could adjust various aspects of their operations to account for the pandemic. I lead our data analysis portion, gathered ~300 portions to a custom survey in qualtrics from target demographic that was used as the foundation of the team's findings. <a href="https://www.dropbox.com/s/685dbrmr6v8hdnc/21-Winter-Blooms%20and%20Threads.pdf?dl=0">Final Deliverable</a></p>
         </div>
