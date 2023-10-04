@@ -10,6 +10,10 @@ nav-menu: true
 <h2 id="content"> Recent Projects </h2>
 <div class="row">
         <div class="6u 12u$(small)">
+                <h3>Racial Disparities in Chronic Illnesses?</h3>
+                 <p>This statistics based paper uses the CDC Chronic Indicators data to break down which factors have the most significant racial disparities and explores possible implications. <a href="https://www.dropbox.com/scl/fi/54rr5vt7455rzjxohvdbg/CDC.pdf?rlkey=thns3m937jqepjzzen89krcb3&dl=0/">Paper</a></p>           
+        </div>
+        <div class="6u 12u$(small)">
                 <h3>Analyzing Maternal Mortality Legislation</h3>
                  <p> Earned $2000 in scholarships from UCSD to create and execute a research project overseen by a faculty mentor during the 2021-2022 academic year. Used Python, Qualtrics, NVivo, and Markdown. <a href="https://gkd-stack.github.io/">Project Website</a></p>           
         </div>
